@@ -1,2 +1,3 @@
 # Flexbox-Page
- First Page using Flexbox
+ Sample Page using Flexbox
+Built with: HTML,CSS
